@@ -1,0 +1,67 @@
+/*@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap');*/
+
+
+
+@media (max-width: 992px) { 
+	
+}
+@media (max-width: 768px) { 
+	
+}
+/*=======================================*/
+@media (max-width: 576px) { 
+	.div2px{
+    height: 2px;
+    width: 400px;
+    background: #15a4fa;
+    margin: 40px auto;
+}
+
+}
+/*======================================*/
+@media (max-width: 320px) { 
+	.slider2 h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: 'Lato', serif;
+    padding-top: 50px;
+}
+.slider-btn{
+    padding-bottom: 30px;
+}
+.slider2 p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 35px;
+    color: #fff;
+}
+.div2px{
+    height: 2px;
+    width: 240px;
+    background: #15a4fa;
+    margin: 40px auto;
+}
+
+.stayed-form2 .slider-btn2 a{
+    padding: 10px 15px;
+    border: 1px solid #15a4fa;
+    display: inline-block;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    transition: all linear .3s;
+    border-radius: 5px;
+    /*background: #3f8dbf;*/
+}
+.foot-topic{
+    display: block;
+}
+.foot-para{
+    margin: 20px 10px;
+}
+
+}
+	
